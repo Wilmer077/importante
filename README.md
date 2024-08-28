@@ -1,10 +1,10 @@
-# Landing Page
+# Mi Portal
 
-Landing Page desarrollado en HTML, CSS y Javascript
+Mi Portal desarrollado en HTML, CSS y Javascript
 
 ## Comparte
 
-Si te gusto el proyecto compártelo con otros, esto es un Landing Page GRATUITO para la comunidad de [FRONT END CHILE](https://www.facebook.com/groups/FrontEndChile/) y el mundo.
+Si te gusto el proyecto compártelo con otros, esto es un Landing Page GRATUITO para la comunidad de [upea](https://www.upea.bo) y el mundo.
 
 ## Colaborar
 
